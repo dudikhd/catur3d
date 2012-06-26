@@ -1,0 +1,4 @@
+AUTOMAKE_OPTIONS = foreign
+SUBDIRS = src art fonts models
+doc_DATA = README AUTHORS COPYING INSTALL NEWS ChangeLog
+
